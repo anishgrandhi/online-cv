@@ -14,14 +14,21 @@ style: styles-2
 name: Anish Grandhi
 tagline: Data Scientist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Being curious, solving challenges and demonstrating my work is I believe has led me to become a data scientist. 
+I have interned as a data scientist for 7 months and the experience has bolstered my ambitions. I have worked on 
+developing an analytical sub-system on Microsoft Azure using Big Data technologies. My work included - extracting, 
+cleaning and transforming data into format that can be easily consumed using Python, R. Gaining domain knowledge and 
+applying it to extract meaningful patterns and insights was the exciting part.
+
+This is my last semester at UTA studying Master's in Information Systems. I have done several academic graduate 
+level projects (found on my GitHub) on Natural Language Processing, Machine Learning.
+
+Competencies - Data Science, Machine Learning, Big Data technologies, cloud computing, Hadoop/Spark, Python/R, 
+Data visualization - Tableau/ PowerBI/ D3.js.'
 
 #sidebar links
 email: anish12392@gmail.com
-phone: 6824331727
+phone: 682 433 1727
 website: anishgrandhi.github.io/resume/ #do not add http://
 linkedin: anishgrandhi
 github: anishgrandhi
