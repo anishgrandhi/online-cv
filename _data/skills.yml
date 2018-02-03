@@ -1,18 +1,21 @@
 - skill:
-  name: Python & Django
+  name: Python
   level: 98%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: Big Data
+  level: 90%
 - skill:
-  name: Angular
-  level: 98%
+  name: Tableau, D3.js, PowerBI
+  level: 90%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Microsoft Azure
+  level: 92%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Java
+  level: 70%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Data Science
+  level: 90%
+- skill:
+  name: Machine Learning
+  level: 89%
