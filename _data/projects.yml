@@ -1,24 +1,28 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Following are a list of academic and personal projects that I have done"
 
 - project:
-  title: Velocity
+  title: Predicting stock prices (Big Data Analytics)
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "Using Hadoop, Spark I have predicted a company's stock price with over 90% accuracy using machine learning algorithms."
 - project:
-  title: DevStudio
+  title: Rating Restaurants (Natural Language Processing)
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Using IBM's Natual Language classifier, I was able to analyze ratings and reviews on Zomato website and regression to
+  come up with an individual score for every restaurant that indicates the hygiene of the restaurant. Tableau was used to visualize
+  the data"
 - project:
-  title: Tempo
+  title: People's moods depend on weather? (Data Science)
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Tweets were collected based on hastags and weather data was collected from wunderground website. Using Python, I was able to 
+  correlate that weather affects people's moods and actions."
 - project:
-  title: Atom
+  title: Pokemon Go!! (Data Science)
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "Data from App Store and Google Play Store and using various machine learning algorithms, I was able to predict the ratings 
+  of the app the following day"
 - project:
-  title: Delta
+  title: Twitter Sentiment Analysis (Data Science)
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Tweets were collected on President Trump and using Python, I analyzed the sentiment of the tweets and compared them
+  across many states in USA."
