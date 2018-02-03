@@ -14,15 +14,15 @@ style: styles-6
 name: Anish Grandhi
 tagline: Data Scientist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Being curious, solving challenges and demonstrating my work is I believe has led me to become a data scientist. 
-I have interned as a data scientist for 7 months and the experience has bolstered my ambitions. 
-Competencies - Data Science, Machine Learning, Big Data technologies, cloud computing, Hadoop, Spark, Python, R, 
+summary: 'Being curious, solving challenges and demonstrating my work is what I believe has led me to become a data scientist. 
+I have interned as a data scientist for 7 months where I gained hands on experience in the world of Data Science, Big Data and cloud computing. 
+Competencies - Python, Big Data (Hadoop, Spark, Flume etc), Data Science, R, Java 
 Data visualization - Tableau, PowerBI, D3.js.'
 
 #sidebar links
 email: anish12392@gmail.com
 phone: 682 433 1727
-website: anishgrandhi.github.io/resume/ #do not add http://
+#website: anishgrandhi.github.io/resume/ #do not add http://
 linkedin: anishgrandhi
 github: anishgrandhi
 twitter: '@anishgrandhi'
