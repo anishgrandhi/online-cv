@@ -1,5 +1,5 @@
 - experience:
-  role: Data Scientist (Intern)
+  role: Data Scientist
   time: June, 2017 - Dec, 2017
   company: Wabtec Corporation, Fort Worth
   details: "Worked in a cross cultural team following Agile methodology. Helped build a machine learning
@@ -11,7 +11,7 @@
   Developed several dashboards using Tableau, PowerBI, D3.js and Azure Time Series Insights. Worked on SQL triggers
   whenever new data is added, modified or deleted in tables."
 - experience:
-  role: Asst. System Engineer (Data Analyst)
+  role: Data Analyst
   time: 2014 - 2016
   company: Tata Consultancy Services, Mumbai
   details: "Worked on analyzing application logs to identify issues with clients' problems.
