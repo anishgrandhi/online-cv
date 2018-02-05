@@ -5,6 +5,12 @@
   name: Big Data
   level: 90%
 - skill:
+  name: SQL
+  level: 90%
+- skill:
+  name: NoSQL
+  level: 85%
+- skill:
   name: Tableau, D3.js, PowerBI
   level: 90%
 - skill:
