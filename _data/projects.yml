@@ -25,5 +25,5 @@
 - project:
   title: Twitter Sentiment Analysis (Data Science)
   link: "#"
-  tagline: "Tweets were collected on President Trump and using Python, I analyzed the sentiment of the tweets and compared the
-  sentiment across many states in USA."
+  tagline: "Tweets were collected on President Trump which were then cleaned, processed using Stemming, Lemmatization. Tweets
+  topics were found out using Latent Dirichlet allocation (LDA) and the sentiment of the tweets were compared across many states in USA."
