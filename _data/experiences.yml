@@ -2,25 +2,22 @@
   role: Data Scientist
   time: June, 2017 - Dec, 2017
   company: Wabtec Corporation, Fort Worth
-  details: "Worked in a cross cultural team following Agile methodology. Helped build a machine learning
+  details: "Worked in a cross cultural team following Agile methodology. Worked to build a machine learning
   solution that can predict failure of locomotive parts and can save upto $4bn/year in predicitive 
   maintenance. Cleaned, processed and applied machine learning algorithms on data to find patterns. 
   Worked on several components in Microsoft Azure and understood how they connect each other and work.
   <br> <br>
-  Using Python, Apache Spark I was able to process logs 15x faster than the existing process in place.
-  Developed several dashboards using Tableau, PowerBI, D3.js and Azure Time Series Insights. Worked on SQL triggers
-  whenever new data is added, modified or deleted in tables."
+  Used Python, Apache Spark to process logs 15x faster than the existing process in place.
+  Developed several dashboards using Tableau, PowerBI, D3.js and Azure Time Series Insights. Created SQL tables, SQL triggers
+  in Azure SQL."
 - experience:
   role: Data Analyst
   time: 2014 - 2016
   company: Tata Consultancy Services, Mumbai
-  details: "Worked for Honeywell Aerospace, USA client. Analyzed huge sets of application logs to identify
-  discrepancies the client was facing.
-  Designed several dashboards on application, user insights using Excel, Tableau.
-  Proactively suggested, implemented changes in the Java web application that the clients were using. 
-  These changes potentially save upto $20000/year for the client.
-  Implemented several solutions that help quicken extracting and analyzing data using Python.
-  <br> <br>
-  Received 'Best Team Award' thrice on account of receiving 100% satisfaction index from the client.
-  Oversaw all the documenation in the team."
+  details: "Worked as a Java developer for Honeywell Aerospace, USA client. Designed and developed Java web application.
+  Analyzed application logs for discrepancies of common issues the client faces. Proactively suggested changes to the application 
+  that potentially save $20000/year for the client. Developed Python scripts to reduce analysis time by text analytics (searching 
+  out keywords of common issues).Extracted data using SQL queries and transformed them into a usable format (csv). Managed servers 
+  and data using UNIX commands. Developed 5 dashboards to showcase application, user data insights using Excel, Tableau. Oversaw 
+  all documentation in the team. Worked as an HR associate for my project team"
 
